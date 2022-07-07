@@ -1,0 +1,2 @@
+Terminal extendido para otimizar o Git: Git Bash.
+Sugestão de editor com controle de versionamento Git incorporado: Visual Studio Code
